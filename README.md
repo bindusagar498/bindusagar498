@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Thota Bindusagar 
 
-<!--
-**bindusagar498/bindusagar498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ B.Tech ECE Student (3rd Year) at SITAMS, Chittoor  
+ Passionate about VLSI, Semiconductor Technology & Digital Design  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Skills
+- Verilog (Basic)
+- Digital Logic Design
+- CMOS Basics
+- FPGA Fundamentals
+
+
+
+  Tools
+- Xilinx Vivado
+- LTSpice
+- NI Multisim
+- KiCad
+
+
+
+  Projects
+- 8-bit ALU Design using Verilog  
+- Memory Buffer System  using verilog
+- Digital Communication Module  using verilog
+- CMOS Circuit Simulation in LTSpice
+- Simple inverter
+- Traffic light controller using verilog 
+
+
+
+  Interests
+- RTL Design  
+- ASIC Design  
+- FPGA Development  
+- Semiconductor Technology  
+
+
+  Contact Me
+- Email   : bindhusagar2@gmail.com
+- Phn No. : +91 9515995285  
+- LinkedIn: https://linkedin.com/in/bindusagar-thota-952a7032a  
+
+
+
+ Actively looking for VLSI Internship Opportunities
